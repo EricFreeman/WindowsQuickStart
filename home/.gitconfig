@@ -1,0 +1,23 @@
+[user]
+    name = Eric Freeman
+    email = clownhunter@gmail.com
+[core]
+    autocrlf = false
+[alias]
+    co = commit
+    cob = checkout -b
+[push]
+    default = current
+[branch]
+	autosetupmerge = true
+[difftool "p4merge"]
+    cmd = p4merge \"$LOCAL\" \"$REMOTE\"
+[merge]
+    tool = p4merge
+[mergetool]
+    prompt = false
+    keepTemporaries = false
+    keepBackup = false
+[mergetool "p4merge"]
+    cmd = p4merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
+    trustExitCode = false

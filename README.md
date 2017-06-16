@@ -9,7 +9,8 @@
 
 ## Tools
 
-1. [Autoclicker](https://github.com/EricFreeman/Autoclicker): auto click the mouse
-2. [fuck](https://github.com/EricFreeman/fuck): fix git command spelling errors
-3. [shit](https://github.com/EricFreeman/shit): small HTTP server
-4. [Wiggle](https://github.com/EricFreeman/Wiggle): fake mouse movements to keep computer from locking
+1. [ConsoleZ](https://github.com/cbucher/console): located in tools\console
+2. [Autoclicker](https://github.com/EricFreeman/Autoclicker): auto click the mouse
+3. [fuck](https://github.com/EricFreeman/fuck): fix git command spelling errors
+4. [shit](https://github.com/EricFreeman/shit): small HTTP server
+5. [Wiggle](https://github.com/EricFreeman/Wiggle): fake mouse movements to keep computer from locking
